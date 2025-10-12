@@ -1,0 +1,5 @@
+    k0dex-website - my personal music website
+    Copyright (C) 2025 mirk0dex
+
+    This program and its subordinate media, document files are covered by
+    various licenses - see LICENSES for details.
