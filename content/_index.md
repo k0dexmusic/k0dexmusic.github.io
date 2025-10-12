@@ -1,3 +1,5 @@
-# k0dex music
+---
+title: k0dex music
+---
 
 Underground DJ, somewhere in europe. Catch me at raves🥷
